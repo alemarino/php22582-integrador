@@ -1,0 +1,68 @@
+.colornavbar {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: green;
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+  }
+
+  .btn-ale {
+    color: #fff;
+    background-color: #26a743;
+  }
+  .btn-ale2 {
+      color: #fff;
+      background-color: transparent;
+      border-color: white;
+    }
+
+    .carousel-ale {
+      position: absolute;
+      right: 10%;
+      bottom: 25%;
+      left: 50%;
+      padding-top: 1.25rem;
+      padding-bottom: 1.25rem;
+      color: #fff;
+      text-align: right;
+    }
+
+    .btn-info-ale {
+      color: rgb(255, 255, 255);
+      background-color: #229cb3;
+      border-color: #0dcaf0;
+    }
+
+    .fondoGris {
+        background-color: #353a40;
+        color: white;
+  }
+
+  .formulario {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
+
+    .botonFormulario {
+      color: #fff;
+      background-color: #96c93e;
+      border-color: #96c93e;
+      }
+
+      .menuInferior {
+        color: #fff;
+        background-color: #1b4156;
+      }
+
+      .navbar-custom {
+        background-color: #1f3e53;
+        color: #fff;
+    }
+
+    .textoBar {
+      color: #fff;      
+    }
